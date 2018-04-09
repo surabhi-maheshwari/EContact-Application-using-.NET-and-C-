@@ -1,0 +1,10 @@
+C:\Users\Surabhi Maheshwari\Desktop\newapp\newapp\bin\Debug\newapp.exe.config
+C:\Users\Surabhi Maheshwari\Desktop\newapp\newapp\bin\Debug\newapp.exe
+C:\Users\Surabhi Maheshwari\Desktop\newapp\newapp\bin\Debug\newapp.pdb
+C:\Users\Surabhi Maheshwari\Desktop\newapp\newapp\obj\Debug\newapp.csprojResolveAssemblyReference.cache
+C:\Users\Surabhi Maheshwari\Desktop\newapp\newapp\obj\Debug\newapp.Form1.resources
+C:\Users\Surabhi Maheshwari\Desktop\newapp\newapp\obj\Debug\newapp.Properties.Resources.resources
+C:\Users\Surabhi Maheshwari\Desktop\newapp\newapp\obj\Debug\newapp.csproj.GenerateResource.cache
+C:\Users\Surabhi Maheshwari\Desktop\newapp\newapp\obj\Debug\newapp.csproj.CoreCompileInputs.cache
+C:\Users\Surabhi Maheshwari\Desktop\newapp\newapp\obj\Debug\newapp.exe
+C:\Users\Surabhi Maheshwari\Desktop\newapp\newapp\obj\Debug\newapp.pdb
